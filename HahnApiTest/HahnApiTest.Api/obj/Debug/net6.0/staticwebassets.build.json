@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A4ZJM35YLhGFNev7wrq+vHKap93fq1rXokxHy6C91H4=",
+  "Source": "HahnApiTest.Api",
+  "BasePath": "_content/HahnApiTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

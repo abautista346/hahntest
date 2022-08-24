@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Api/HahnApiTest.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Api/HahnApiTest.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Api/HahnApiTest.Api.csproj",
+        "projectName": "HahnApiTest.Api",
+        "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Api/HahnApiTest.Api.csproj",
+        "packagesPath": "/Users/plata/.nuget/packages/",
+        "outputPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/plata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj": {
+                "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj"
+              },
+              "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/HahnApiTest.Contracts.csproj": {
+                "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/HahnApiTest.Contracts.csproj"
+              },
+              "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/HahnApiTest.Infrastructure.csproj": {
+                "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/HahnApiTest.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj",
+        "projectName": "HahnApiTest.Application",
+        "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj",
+        "packagesPath": "/Users/plata/.nuget/packages/",
+        "outputPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/plata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/HahnApiTest.Domain.csproj": {
+                "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/HahnApiTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/HahnApiTest.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/HahnApiTest.Contracts.csproj",
+        "projectName": "HahnApiTest.Contracts",
+        "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/HahnApiTest.Contracts.csproj",
+        "packagesPath": "/Users/plata/.nuget/packages/",
+        "outputPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/plata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/HahnApiTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/HahnApiTest.Domain.csproj",
+        "projectName": "HahnApiTest.Domain",
+        "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/HahnApiTest.Domain.csproj",
+        "packagesPath": "/Users/plata/.nuget/packages/",
+        "outputPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/plata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/HahnApiTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/HahnApiTest.Infrastructure.csproj",
+        "projectName": "HahnApiTest.Infrastructure",
+        "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/HahnApiTest.Infrastructure.csproj",
+        "packagesPath": "/Users/plata/.nuget/packages/",
+        "outputPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/plata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj": {
+                "projectPath": "/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Application/HahnApiTest.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Infrastructure.deps.json
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Infrastructure.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Infrastructure.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.csproj.AssemblyReference.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.AssemblyInfoInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.AssemblyInfo.cs
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/refint/HahnApiTest.Infrastructure.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/ref/HahnApiTest.Infrastructure.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Application.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Domain.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Application.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/bin/Debug/net6.0/HahnApiTest.Domain.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Infrastructure/obj/Debug/net6.0/HahnApiTest.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,12 @@
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/bin/Debug/net6.0/HahnApiTest.Contracts.deps.json
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/bin/Debug/net6.0/HahnApiTest.Contracts.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/bin/Debug/net6.0/HahnApiTest.Contracts.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.csproj.AssemblyReference.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.AssemblyInfoInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.AssemblyInfo.cs
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.csproj.CoreCompileInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/refint/HahnApiTest.Contracts.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/HahnApiTest.Contracts.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Contracts/obj/Debug/net6.0/ref/HahnApiTest.Contracts.dll

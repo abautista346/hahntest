@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HahnApiTest.Infrastructure/1.0.0": {
+        "dependencies": {
+          "HahnApiTest.Application": "1.0.0"
+        },
+        "runtime": {
+          "HahnApiTest.Infrastructure.dll": {}
+        }
+      },
+      "HahnApiTest.Application/1.0.0": {
+        "dependencies": {
+          "HahnApiTest.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HahnApiTest.Application.dll": {}
+        }
+      },
+      "HahnApiTest.Domain/1.0.0": {
+        "runtime": {
+          "HahnApiTest.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HahnApiTest.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HahnApiTest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HahnApiTest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

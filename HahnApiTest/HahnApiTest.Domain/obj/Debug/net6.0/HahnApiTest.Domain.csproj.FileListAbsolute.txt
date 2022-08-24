@@ -1,0 +1,12 @@
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/bin/Debug/net6.0/HahnApiTest.Domain.deps.json
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/bin/Debug/net6.0/HahnApiTest.Domain.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/bin/Debug/net6.0/HahnApiTest.Domain.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.csproj.AssemblyReference.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.AssemblyInfoInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.AssemblyInfo.cs
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.csproj.CoreCompileInputs.cache
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/refint/HahnApiTest.Domain.dll
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/HahnApiTest.Domain.pdb
+/Users/plata/Documents/Dev/Test/hahntest/HahnApiTest/HahnApiTest.Domain/obj/Debug/net6.0/ref/HahnApiTest.Domain.dll

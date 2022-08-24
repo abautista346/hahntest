@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\HahnApiTest.Contracts\HahnApiTest.Contracts.csproj" />
     <ProjectReference Include="..\HahnApiTest.Application\HahnApiTest.Application.csproj" />
     <ProjectReference Include="..\HahnApiTest.Infrastructure\HahnApiTest.Infrastructure.csproj" />

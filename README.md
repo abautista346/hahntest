@@ -1,2 +1,5 @@
 # HahnTest
-Test
+
+WebApi based on a DDD Pattern
+
+

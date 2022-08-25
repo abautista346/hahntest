@@ -1,0 +1,27 @@
+//GET http://localhost:5041/WeatherForecast
+
+//variables
+@host=https://localhost:7014
+
+
+### TEST REGISTER
+
+POST {{host}}/auth/register
+Content-Type : application/json 
+
+{
+    "firstName": "Alan",
+    "lastName": "Bautista",
+    "email": "abautistausac@gmail.com",
+    "password": "12345"
+}
+
+### TEST LOGIN
+
+POST {{host}}/auth/login
+Content-Type : application/json 
+
+{
+    "email": "abautistausac@gmail.com",
+    "password": "12345"
+}
